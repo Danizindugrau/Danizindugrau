@@ -1,15 +1,18 @@
-### Boas vindas ao meu perfil 
+### Boas vindas ao meu perfil 💙
+
+Meu nome é Daniel Chimanski 
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento do meu projeto desenvolvidos
+
+  ### Você entrar em contato comigo 📫
+  
+  00001098138405SP@al.educacao.sp.gov.br
+  
+  @Danizindugrau
 
 
-**Danizindugrau/Danizindugrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![image](https://github.com/Danizindugrau/Danizindugrau/assets/170095971/f2ad3db8-c3e0-467e-b7e6-9ea712a4ee70)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
