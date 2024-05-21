@@ -13,6 +13,6 @@ Meu nome é Daniel Chimanski
   @Danizindugrau
 
 
-  ![image](https://github.com/Danizindugrau/Danizindugrau/assets/170095971/f2ad3db8-c3e0-467e-b7e6-9ea712a4ee70)
+  ![](https://www.icegif.com/wp-content/uploads/2023/06/icegif-282.gif)
 
 
